@@ -32,8 +32,8 @@
 - WebRTC integration for cross-platform communication.
 
 ## 🎯 Let's Connect!
-- 💼 [LinkedIn](#)
 - 🌐 [Personal Website ](plenilune.us.kg)The website is under construction
+- 📺 [bilibili](https://space.bilibili.com/289448606)
 - 📧 [Email Me](mailto:Pleniluner@outlook.com)
 
 
