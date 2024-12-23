@@ -3,7 +3,11 @@
 <div align="center">
   <img height="" src="https://cdn.donmai.us/sample/e0/35/__houraisan_kaguya_touhou_drawn_by_nurupo_abooon__sample-e035e5fcc22a717d8aedf52fc8fb57c6.jpg"  />
 </div>
-
+<table align="center">
+  <tr>
+    <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pleniluner&theme=dark" alt=Pleniluner" /></a>
+  </tr>
+  
 ###
 
 <img src="https://raw.githubusercontent.com/Pleniluner/Pleniluner/output/snake.svg" alt="Snake animation" />
