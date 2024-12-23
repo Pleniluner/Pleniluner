@@ -14,7 +14,7 @@
 - 🎵 **Hi-Fi Music Enthusiast**: Always exploring new ways to enhance the listening experience with the best gear and setups.
 
 ## 🌟 Skills
-- **Programming Languages**: Python, C++, JavaScript, CSS, Kotlin, Java
+- **Programming Languages**: C, C++, Python, JavaScript, CSS, Kotlin, Java
 - **Technologies**: Machine Learning, Computer Vision, Embedded Systems, Android SDK, Jetpack Compose, Machine Learning
 - **Tools**: Git, Docker, VS Code, WSL, Android Studio, Git, Gradle, Figma
 
