@@ -3,6 +3,41 @@
 <div align="center">
   <img height="" src="https://cdn.donmai.us/sample/e0/35/__houraisan_kaguya_touhou_drawn_by_nurupo_abooon__sample-e035e5fcc22a717d8aedf52fc8fb57c6.jpg"  />
 </div>
+
+# 👋 Hi, I'm [Plenilune]!
+
+## About Me
+- 📡 **Amateur Radio Enthusiast**: I enjoy tuning into global frequencies and connecting with people across the world.
+- 🌌 **Astronomy Enthusiast**: Stargazing and exploring celestial phenomena are my passions.
+- 💻 **Computer Science Enthusiast**: I love solving problems with code and diving into new technologies.
+- 📱 **Android Developer**: Passionate about creating intuitive and high-performing mobile applications.
+- 🎵 **Hi-Fi Music Enthusiast**: Always exploring new ways to enhance the listening experience with the best gear and setups.
+
+## 🌟 Skills
+- **Programming Languages**: Python, C++, JavaScript, CSS, Kotlin, Java
+- **Technologies**: Machine Learning, Computer Vision, Embedded Systems, Android SDK, Jetpack Compose, Machine Learning
+- **Tools**: Git, Docker, VS Code, WSL, Android Studio, Git, Gradle, Figma
+
+## 🚀 What I'm Currently Working On
+- Building an IoT project integrating radio communication and deep learning.
+- Exploring open-source astronomy data for celestial event prediction.
+- Developing an Android app for real-time celestial event tracking.
+- Experimenting with audio processing libraries to optimize sound quality for mobile devices.
+
+## 📚 What I'm Learning
+- Advanced algorithms for radio signal processing.
+- Astrophotography and image processing techniques.
+- Advanced Android animations and transitions.
+- High-fidelity audio encoding and optimization techniques.
+- WebRTC integration for cross-platform communication.
+
+## 🎯 Let's Connect!
+- 💼 [LinkedIn](#)
+- 🌐 [Personal Website ](plenilune.us.kg)The website is under construction
+- 📧 [Email Me](mailto:Pleniluner@outlook.com)
+
+
+
 <table align="center">
   <tr>
     <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pleniluner&theme=dark" alt=Pleniluner" /></a>
