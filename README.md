@@ -5,6 +5,9 @@
 </div>
 
 # 👋 Hi, I'm [Plenilune]!
+<audio controls>
+    <source src="https://raw.githubusercontent.com/Pleniluner/Pleniluner/main/assets/audio/竹取飛翔_summer_piano_arrange.wav" type="audio/wav">
+</audio>
 
 ## About Me
 - 📡 **Amateur Radio Enthusiast**: I enjoy tuning into global frequencies and connecting with people across the world.
