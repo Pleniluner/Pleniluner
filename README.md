@@ -5,9 +5,6 @@
 </div>
 
 # 👋 Hi, I'm [Plenilune]!
-<audio controls>
-    <source src="https://raw.githubusercontent.com/Pleniluner/Pleniluner/main/assets/audio/Glassmoon_何にもない.mp3" type="audio/mp3">
-</audio>
 
 ## About Me
 - 📡 **Amateur Radio Enthusiast**: I enjoy tuning into global frequencies and connecting with people across the world.
