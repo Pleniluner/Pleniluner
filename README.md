@@ -4,7 +4,7 @@
   <img height="" src="https://cdn.donmai.us/sample/e0/35/__houraisan_kaguya_touhou_drawn_by_nurupo_abooon__sample-e035e5fcc22a717d8aedf52fc8fb57c6.jpg"  />
 </div>
 
-# 👋 Hi, I'm [Plenilune]!
+# 👋 Hi, I'm Plenilune 
 
 ## About Me
 - 📡 **Amateur Radio Enthusiast**: I enjoy tuning into global frequencies and connecting with people across the world.
