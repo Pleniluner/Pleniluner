@@ -4,7 +4,7 @@
   <img height="" src="https://cdn.donmai.us/original/0a/4d/0a4d3be880a568105864dfda3f0c59ba.jpg"  />
 </div>
 
-# 👋 Hi, I'm Plenilune 
+# 👋 Hi, I'm Pleniluner
 
 ## About Me
 - 📡 **Amateur Radio Enthusiast**: I enjoy tuning into global frequencies and connecting with people across the world.
