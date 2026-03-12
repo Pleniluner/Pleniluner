@@ -50,7 +50,7 @@ My primary engine for creation, analysis, and entertainment:
 - 🎬 [Bilibili](https://space.bilibili.com/289448606) - My video channel
 - 💻 [Stack Overflow](https://stackoverflow.com/users/32458790/Pleniluner) - My coding Q&A profile
 - 🎨 [Behance](https://www.behance.net/Plenilune) - My design portfolio
-- 📝 [Zhihu (知乎)](https://www.zhihu.com/people/Pleniluner) - Where I share insights (aka: 银月银月) | USTC
+- 📝 [Zhihu (知乎)](https://www.zhihu.com/people/Pleniluner) - Where I share insights (aka: 银月)
 
 <br clear="both">
 
