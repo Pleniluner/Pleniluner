@@ -10,10 +10,18 @@
 - 📐 **BIM (Building Information Modeling) Professional**: I specialize in Building Information Modeling, utilizing it for detailed documentation, coordination, and data-driven management throughout the project lifecycle.
 - 🎮 **Paradox Interactive Strategy Games Enthusiast**: A dedicated player of grand strategy and simulation titles like Stellaris, Hearts of Iron IV, Victoria 3, Cities: Skylines, and Crusader Kings III.
 - 📡 **HAM Radio Operator / Enthusiast**: I enjoy tuning into global frequencies, making contacts, and exploring the technical and communicative aspects of amateur radio.
-- 🌌 **Astronomy Enthusiast**: Stargazing and exploring celestial phenomena are my passions.
+- 🌌 **Stargazer**: Observing the night sky and unraveling the mysteries of the cosmos is a profound source of inspiration.
 - 💻 **Computer Science Explorer**: I love solving problems with code and diving into new technologies.
 - 📱 **Android Developer**: Passionate about creating intuitive and high-performing mobile applications.
-- 🎵 **Hi-Fi Music Enthusiast**: Always exploring new ways to enhance the listening experience with the best gear and setups.
+- 🎵 **Audiophile**: Passionate about pursuing the highest fidelity in audio through meticulous gear selection and setup optimization.
+
+## 🖥️ Workstation Specs
+My primary engine for creation, analysis, and entertainment:
+- **Laptop**: ASUS ROG Strix G16
+- **Processor**: AMD Ryzen™ 9 8940HX
+- **Graphics**: NVIDIA GeForce RTX 5070 Ti Laptop GPU
+- **Memory**: 48 GB DDR5 (Micron)
+- **Storage**: 3 TB (Yangtze Memory)
 
 ## 🌟 Skills
 - **Programming Languages**: C, C++, Python, JavaScript, CSS, Kotlin, Java, Tex
@@ -42,7 +50,7 @@
 - 🎬 [Bilibili](https://space.bilibili.com/289448606) - My video channel
 - 💻 [Stack Overflow](https://stackoverflow.com/users/32458790/Pleniluner) - My coding Q&A profile
 - 🎨 [Behance](https://www.behance.net/Plenilune) - My design portfolio
-- 📝 [Zhihu (知乎)](https://www.zhihu.com/people/Pleniluner) - Where I share insights (aka: 银月)
+- 📝 [Zhihu (知乎)](https://www.zhihu.com/people/Pleniluner) - Where I share insights (aka: 银月银月) | USTC
 
 <br clear="both">
 
