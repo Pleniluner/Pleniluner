@@ -1,4 +1,13 @@
+<br clear="both">
+
+<div align="center">
+  <img height="" src="https://cdn.donmai.us/original/0a/4d/0a4d3be880a568105864dfda3f0c59ba.jpg"  />
+</div>
+
 # 👋 Hi, I'm Pleniluner
+- Greetings to friends from all corners of the world!
+- Pax omnibus. (Peace to all.)
+
 ## About Me
 - 🏗️ **Architect**: Architecture is my core profession, focused on conceptual design, spatial creation, and bringing visionary structures to life.
 - 📐 **BIM (Building Information Modeling) Professional**: I specialize in Building Information Modeling, utilizing it for detailed documentation, coordination, and data-driven management throughout the project lifecycle.
@@ -59,6 +68,7 @@ My primary engine for creation, analysis, and entertainment:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pleniluner&radius=16&theme=nord&area=false&order=5&hide_border=true&hide_title=false" height="380" alt="activity-graph graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=Pleniluner&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="110" alt="stats graph" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pleniluner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="110" alt="languages graph" />
 </div>
 </div>
