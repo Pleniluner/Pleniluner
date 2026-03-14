@@ -1,9 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="" src="https://cdn.donmai.us/original/0a/4d/0a4d3be880a568105864dfda3f0c59ba.jpg"  />
-</div>
-
 # 👋 Hi, I'm Pleniluner
 ## About Me
 - 🏗️ **Architect**: Architecture is my core profession, focused on conceptual design, spatial creation, and bringing visionary structures to life.
@@ -48,6 +42,7 @@ My primary engine for creation, analysis, and entertainment:
 ## 🎯 Let's Connect!
 - 📧 [Email Me](mailto:Pleniluner@outlook.com)
 - 🎬 [Bilibili](https://space.bilibili.com/289448606) - My video channel
+- 🎮 [Steam](https://steamcommunity.com/id/Plenilunel) - My gaming profile
 - 💻 [Stack Overflow](https://stackoverflow.com/users/32458790/Pleniluner) - My coding Q&A profile
 - 🎨 [Behance](https://www.behance.net/Plenilune) - My design portfolio
 - 📝 [Zhihu (知乎)](https://www.zhihu.com/people/Pleniluner) - Where I share insights (aka: 银月)
@@ -63,8 +58,6 @@ My primary engine for creation, analysis, and entertainment:
 ###
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pleniluner&radius=16&theme=nord&area=false&order=5&hide_border=true&hide_title=false" height="380" alt="activity-graph graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Pleniluner&theme=nord&column=-1&row=1&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="110" alt="trophy graph" />
-  <img src="https://streak-stats.demolay.com?user=Pleniluner&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="110" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=Pleniluner&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="110" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pleniluner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="110" alt="languages graph" />
 </div>
