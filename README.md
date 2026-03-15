@@ -29,7 +29,7 @@ My primary engine for creation, analysis, and entertainment:
 ## 🌟 Skills
 - **Programming Languages**: C, C++, Python, JavaScript, CSS, Kotlin, Java, Tex
 - **Technologies**: Machine Learning, Computer Vision, Embedded Systems, Android SDK, Jetpack Compose
-- **Architectural Design**: Proficient in architectural design, modeling, and visualization software, including the TArch (天正) suite for architectural, structural, electrical, plumbing, and HVAC drafting, as well as 3ds Max, D5 Render, and Lumion for advanced modeling and rendering.
+- **Architectural Design**: Proficient in architectural design, modeling, and visualization software, including the TArch (天正) suite for architectural, structural, electrical, plumbing, and HVAC drafting, as well as SketchUp, 3ds Max, D5 Render, and Lumion for advanced modeling and rendering.
 - **BIM & Documentation**: Experienced in the full BIM workflow and production tools (e.g., Revit, ArchiCAD, Civil 3D, Navisworks, BIM 360/ACC).
 - **General Tools**: Git, Docker, VS Code, WSL, Android Studio, Gradle, Figma, MikTex
 
