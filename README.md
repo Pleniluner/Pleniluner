@@ -11,7 +11,7 @@
 ## About Me
 - 🏗️ **Architect**: Architecture is my core profession, focused on conceptual design, spatial creation, and bringing visionary structures to life.
 - 📐 **BIM (Building Information Modeling) Professional**: I specialize in Building Information Modeling, utilizing it for detailed documentation, coordination, and data-driven management throughout the project lifecycle.
-- 🎮 **Paradox Interactive Strategy Games Enthusiast**: A dedicated player of grand strategy and simulation titles like Stellaris, Hearts of Iron IV, Victoria 3, Cities: Skylines, and Crusader Kings III.
+- 🎮 **Paradox Interactive Strategy Games Enthusiast**: A dedicated player of grand strategy and simulation titles like Stellaris, Hearts of Iron IV, Victoria 3, Europa Universalis IV，Cities: Skylines, and Crusader Kings III.
 - 📡 **HAM Radio Operator / Enthusiast**: I enjoy tuning into global frequencies, making contacts, and exploring the technical and communicative aspects of amateur radio.
 - 🌌 **Stargazer**: Observing the night sky and unraveling the mysteries of the cosmos is a profound source of inspiration.
 - 💻 **Computer Science Explorer**: I love solving problems with code and diving into new technologies.
