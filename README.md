@@ -71,9 +71,9 @@ I also maintain a collection of heavily customized Android devices, each running
 
 
 ### 🎧 Audio Gear
-• Edifier R1080MKII+: Active bookshelf speakers delivering crisp, balanced sound for desktop listening and near‑field monitoring.
-• Edifier W830NB: Over‑ear wireless noise‑cancelling headphones for immersive listening and focused work sessions.
-• iKF King Pro: Versatile Bluetooth headphones with hybrid ANC, used for mobile listening and casual gaming.
+• **HiVi D1080MKII+**: Active bookshelf speakers delivering crisp, balanced sound for desktop listening and near‑field monitoring
+• **Edifier W830NB**: Over‑ear wireless noise‑cancelling headphones for immersive listening and focused work sessions.
+• **iKF King Pro**: Versatile Bluetooth headphones with hybrid ANC, used for mobile listening and casual gaming.
 
 
 ## 🌟 Skills
