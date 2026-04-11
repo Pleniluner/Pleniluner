@@ -161,8 +161,6 @@ These open educational resources form the backbone of my self‑directed study, 
 
 • **Algorithmic Craftsmanship**: Consistently solving problems on ACM‑style online judges to refine data structure and algorithm mastery, while keeping a playful connection to AMC recreational problem‑solving.
 
-• **ROG Keris DPI Customization & Mouse Dynamics**: Fine‑tuning DPI steps (from 100 to 16,000) and lift‑off distance to achieve the perfect balance between pixel‑level precision and sweeping maneuverability in both design software and fast‑paced games.
-
 
 ## 🎯 Let's Connect!
 • 📧 [Email Me](mailto:Pleniluner@outlook.com)
