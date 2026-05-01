@@ -57,6 +57,8 @@ My primary engine for creation, analysis, and entertainment:
 
 • **Mouse**: ASUS ROG Keris – a lightweight, precise gaming mouse with customizable DPI ranging from 100 to 16,000, featuring hot‑swappable switches for tailored tactility.
 
+• **Keyboard**: ASUS ROG Strix Scope II RX  – optical RX Red switches for ultra‑fast actuation and consistent, wobble‑free keystrokes. Pre‑lubed stabilizers and sound‑dampening foam keep acoustics tight while the PBT doubleshot keycaps ensure legends stay crisp. Onboard multi‑function controls, a magnetic wrist rest, and per‑key Aura Sync RGB make it equally at home in late‑night coding sessions and competitive rounds.
+
 
 ### 🛠️ Essential Software Stack
 These tools form the backbone of my daily workflow across architecture, development, and creative pursuits.
