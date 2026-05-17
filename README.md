@@ -55,7 +55,7 @@ My primary engine for creation, analysis, and entertainment:
 
 • **Hackintosh Machine**: Dell Inspiron 5488 – successfully running **macOS Sonoma** as a Hackintosh, serving as a secondary development environment for iOS build compatibility and cross‑platform testing.
 
-• **Mouse**: ASUS ROG Keris – a lightweight, precise gaming mouse with customizable DPI ranging from 100 to 16,000, featuring hot‑swappable switches for tailored tactility.
+• **Mouse**: ASUS ROG Gladius III Core — 71 g wired ergonomic mouse, 12,000 DPI optical sensor, hot‑swappable ROG Micro Switch II, 100% PTFE feet, Paracord cable, Aura Sync RGB.
 
 • **Keyboard**: ASUS ROG Strix Scope II RX  – optical RX Red switches for ultra‑fast actuation and consistent, wobble‑free keystrokes. Pre‑lubed stabilizers and sound‑dampening foam keep acoustics tight while the PBT doubleshot keycaps ensure legends stay crisp. Onboard multi‑function controls, a magnetic wrist rest, and per‑key Aura Sync RGB make it equally at home in late‑night coding sessions and competitive rounds.
 
@@ -101,10 +101,11 @@ I also maintain a collection of heavily customized Android devices, each running
 
 
 ### 🎧 Audio Gear
+My listening chain is a gradual build — what's currently on duty:
 • **HiVi D1080MKII+**: Active bookshelf speakers delivering crisp, balanced sound for desktop listening and near‑field monitoring.
 • **Edifier W830NB**: Over‑ear wireless noise‑cancelling headphones for immersive listening and focused work sessions.
-• **iKF King Pro**: Versatile Bluetooth headphones with hybrid ANC, used for mobile listening and casual gaming.
-
+• **iKF King Pro** (retired) — my faithful companion through the gaokao trenches. Now resting.
+*(DAC, room correction, and signal chain upgrades are part of the ongoing pursuit.)*
 
 ## 🌟 Skills
 • **Programming Languages**: C, C++, Python, JavaScript, CSS, Kotlin, Java, LaTeX
