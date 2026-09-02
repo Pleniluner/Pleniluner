@@ -266,16 +266,56 @@ My mathematics reading is also influenced by **Thomas' Calculus**, Stein & Shaka
 
 ---
 
-## 🎯 Connect
+<h2 align="center">🎯 Connect</h2>
 
-* 📧 [Email](mailto:Pleniluner@outlook.com)
-* 🎬 [Bilibili](https://space.bilibili.com/289448606)
-* 🎮 [Steam](https://steamcommunity.com/id/Plenilunel)
-* 💻 [Stack Overflow](https://stackoverflow.com/users/32458790/Pleniluner)
-* 🎨 [Behance](https://www.behance.net/Plenilune)
-* 📝 [Zhihu / 知乎](https://www.zhihu.com/people/Pleniluner)
-* 📡 [QRZ.com — BG7LBJ](https://www.qrz.com/db/BG7LBJ)
+<p align="center">
+  <em.Peace to all</em>
+</p>
 
+<!-- Contact · Design · Writing -->
+<p align="center">
+  <a href="mailto:Pleniluner@outlook.com">
+    <img src="https://img.shields.io/badge/Email-6477B8?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="Email Pleniluner" />
+  </a>
+  &nbsp;
+  <a href="https://www.behance.net/Plenilune">
+    <img src="https://img.shields.io/badge/Behance-242938?style=for-the-badge&amp;logo=behance&amp;logoColor=A6BFFB" alt="Behance" />
+  </a>
+  &nbsp;
+  <a href="https://www.zhihu.com/people/Pleniluner">
+    <img src="https://img.shields.io/badge/Zhihu-242938?style=for-the-badge&amp;logo=zhihu&amp;logoColor=7FB3F4" alt="知乎 / Zhihu" />
+  </a>
+</p>
+
+<!-- Algorithms · Development · AI -->
+<p align="center">
+  <a href="https://codeforces.com/profile/Pleniluner">
+    <img src="https://img.shields.io/badge/Codeforces-242938?style=for-the-badge&amp;logo=codeforces&amp;logoColor=8EC5E8" alt="Codeforces" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/32458790/Pleniluner">
+    <img src="https://img.shields.io/badge/Stack_Overflow-242938?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=F7B267" alt="Stack Overflow" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/Pleniluner">
+    <img src="https://img.shields.io/badge/Hugging_Face-242938?style=for-the-badge&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face" />
+  </a>
+</p>
+
+<!-- Videos · Games · Radio -->
+<p align="center">
+  <a href="https://space.bilibili.com/289448606">
+    <img src="https://img.shields.io/badge/Bilibili-242938?style=for-the-badge&amp;logo=bilibili&amp;logoColor=F59CB6" alt="Bilibili" />
+  </a>
+  &nbsp;
+  <a href="https://steamcommunity.com/id/Plenilunel">
+    <img src="https://img.shields.io/badge/Steam-242938?style=for-the-badge&amp;logo=steam&amp;logoColor=D6DBF2" alt="Steam" />
+  </a>
+  &nbsp;
+  <a href="https://www.qrz.com/db/BG7LBJ">
+    <img src="https://img.shields.io/badge/QRZ-BG7LBJ-242938?style=for-the-badge&amp;labelColor=6477B8" alt="QRZ.com — BG7LBJ" />
+  </a>
+</p>
 ---
 
 <div align="center">
