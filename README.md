@@ -316,20 +316,9 @@ My mathematics reading is also influenced by **Thomas' Calculus**, Stein & Shaka
     <img src="https://img.shields.io/badge/QRZ-BG7LBJ-242938?style=for-the-badge&amp;labelColor=6477B8" alt="QRZ.com — BG7LBJ" />
   </a>
 </p>
----
 
 <div align="center">
 
 <a href="#-github">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pleniluner&theme=dark" alt="Pleniluner" />
-</a>
 
-### 🐍
-
-<img src="https://raw.githubusercontent.com/Pleniluner/Pleniluner/output/snake.svg" alt="Snake animation" />
-
-### 📈 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pleniluner&radius=16&theme=nord&area=false&order=5&hide_border=true&hide_title=false" height="380" alt="GitHub activity graph" />
-
-</div>
