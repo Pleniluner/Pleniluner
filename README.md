@@ -538,7 +538,7 @@ Related tools include **QPST and QFIL**.
 ---
 
 <p align="center">
-  <em>Credo ver vere venturum esse.</em>
+  <em>Descende antequam ascendas;adveni antequam proficiscaris.</em>
 </p>
 
 <p align="center">🌙</p>
