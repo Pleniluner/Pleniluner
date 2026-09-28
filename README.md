@@ -538,7 +538,7 @@ Related tools include **QPST and QFIL**.
 ---
 
 <p align="center">
-  <em>Descende antequam ascendas;adveni antequam proficiscaris.</em>
+  <em>Adveni priusquam proficiscaris.</em>
 </p>
 
 <p align="center">🌙</p>
