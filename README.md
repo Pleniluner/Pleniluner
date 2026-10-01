@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://cdn.donmai.us/original/0a/4d/0a4d3be880a568105864dfda3f0c59ba.jpg"
+    src="https://cdn.donmai.us/original/24/fe/__yamato_takeru_fate_and_1_more_drawn_by_huangdanlan__24fe01439a375df70984d90616915207.jpg"
     width="100%"
     alt="Pleniluner's profile banner"
   />
